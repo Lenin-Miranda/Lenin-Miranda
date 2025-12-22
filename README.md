@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lenin Miranda</h1>
 <h3 align="center">🎯 Full Stack Web Developer | Focused on building thoughtful and useful solutions. Hi, I’m Lenin Miranda, a self-taught developer passionate about web development and process automation. I have hands-on experience building apps with HTML, CSS, JavaScript, React, and I’m currently expanding into full-stack development with Node.js and MongoDB.</h3>
 
-- 🌱 I’m currently learning **Next.Js and TypeScript**
+- 🌱 I’m currently learning **GraphQL and Prisma**
 
 - 👨‍💻 All of my projects are available at [https://www.leninmiranda.com/](https://www.leninmiranda.com/)
 
