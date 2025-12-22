@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.Js and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://lenin-miranda.github.io/Personal-Portfolio/](https://lenin-miranda.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://www.leninmiranda.com/](https://www.leninmiranda.com/)
 
 - 💬 Ask me about **JS, React and Express.Js**
 
