@@ -48,7 +48,6 @@ Focused on clean architecture, performance, and scalable solutions.
 - 🔹 **Odontools** – Full-stack SaaS for dental sales and inventory management  
 - 🔹 **CSV Cleaner** – Desktop automation tool to clean and standardize large datasets  
 - 🔹 **WTWR App** – Weather-based clothing recommendation app  
-- 🔹 **E-commerce & Admin Dashboards** – Product management, auth, payments
 
 👉 **Portfolio:** [https://www.leninmiranda.com](https://www.leninmiranda.com)
 
