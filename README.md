@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lenin Miranda</h1>
+<h1 align="center">Hi, I'm Lenin Miranda</h1>
 <h3 align="center">
 Full-Stack Web Developer · Automation Builder · Problem Solver
 </h3>
@@ -10,7 +10,7 @@ Focused on clean architecture, performance, and scalable solutions.
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 💻 Full-Stack Developer with hands-on experience building **SaaS products**, dashboards, and internal tools  
 - ⚙️ Strong background in **process automation** and data workflows  
@@ -19,7 +19,7 @@ Focused on clean architecture, performance, and scalable solutions.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 - HTML, CSS, JavaScript, TypeScript
@@ -43,17 +43,17 @@ Focused on clean architecture, performance, and scalable solutions.
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 - 🔹 **Odontools** – Full-stack SaaS for dental sales and inventory management  
 - 🔹 **CSV Cleaner** – Desktop automation tool to clean and standardize large datasets  
 - 🔹 **WTWR App** – Weather-based clothing recommendation app  
 
-👉 **Portfolio:** [https://www.leninmiranda.com](https://www.leninmiranda.com)
+**Portfolio:** [https://www.leninmiranda.com](https://www.leninmiranda.com)
 
 ---
 
-### 💬 Ask Me About
+### Ask Me About
 
 - JavaScript & React
 - REST APIs & Express
@@ -62,7 +62,7 @@ Focused on clean architecture, performance, and scalable solutions.
 
 ---
 
-### 📫 Contact
+### Contact
 
 - 📧 Email: **lenin9073@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/lenin-miranda](https://linkedin.com/in/lenin-miranda)
