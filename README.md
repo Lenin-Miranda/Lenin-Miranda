@@ -12,10 +12,10 @@ Focused on clean architecture, performance, and scalable solutions.
 
 ### About Me
 
-- 💻 Full-Stack Developer with hands-on experience building **SaaS products**, dashboards, and internal tools  
-- ⚙️ Strong background in **process automation** and data workflows  
-- 🧠 Self-taught, product-driven, and always improving  
-- 🌱 Currently learning **GraphQL, Prisma, and scalable backend patterns**
+- Full-Stack Developer with hands-on experience building **SaaS products**, dashboards, and internal tools  
+- Strong background in **process automation** and data workflows  
+- Self-taught, product-driven, and always improving  
+- Currently learning **GraphQL, Prisma, and scalable backend patterns**
 
 ---
 
